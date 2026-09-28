@@ -15,6 +15,7 @@
     <a href="#-research-pillars">Research</a> ·
     <a href="#-people">People</a> ·
     <a href="#-featured-projects">Projects</a> ·
+    <a href="#-community-maintenance">Maintenance</a> ·
     <a href="#-selected-research">Publications</a> ·
     <a href="#-recent-news">News</a> ·
     <a href="#-connect-with-us">Connect</a>
@@ -60,6 +61,18 @@ Our work is driven by faculty, postdoctoral researchers, graduate students, rese
 | **[SCAPE](https://github.com/ICT-FinD-Lab/SCAPE)** | Stylistic-content-aware personalized headline generation with panoramic user interests. | WWW 2025 · [Code](https://github.com/ICT-FinD-Lab/SCAPE) |
 
 Explore all public repositories in the [FinD Lab organization](https://github.com/orgs/ICT-FinD-Lab/repositories?type=all).
+
+## 🔧 Community Maintenance
+
+To improve documentation and reproducibility without modifying author-led repositories, the following personal forks are maintained separately. The FinD Lab repositories above remain the canonical research sources.
+
+| Canonical Project | Community Maintenance Fork | Initial Maintenance Scope |
+| :--- | :--- | :--- |
+| [AlphaGen](https://github.com/ICT-FinD-Lab/alphagen) | [Yangmingchi0/alphagen](https://github.com/Yangmingchi0/alphagen) · [Maintenance Guide](https://github.com/Yangmingchi0/alphagen/blob/master/COMMUNITY_MAINTENANCE.md) | Reproduction audit, environment/problem index, and verification protocol |
+| [GrAP³](https://github.com/ICT-FinD-Lab/GrAP3) | [Yangmingchi0/GrAP3](https://github.com/Yangmingchi0/GrAP3) | Professional documentation, responsible-use notes, setup/argument guide, and reproducibility checklist |
+| [Awesome Robust Graph Learning](https://github.com/ICT-FinD-Lab/awesome-robust-graph-learning) | [Yangmingchi0/awesome-robust-graph-learning](https://github.com/Yangmingchi0/awesome-robust-graph-learning) · [Curation Policy](https://github.com/Yangmingchi0/awesome-robust-graph-learning/blob/master/CONTRIBUTING.md) | Evidence standards, resource submission format, and link-review cadence |
+
+These forks are community-maintenance workspaces, not replacements for the official projects. Algorithmic changes and upstream contributions require separate review and permission from the original maintainers.
 
 ## 📚 Selected Research
 
